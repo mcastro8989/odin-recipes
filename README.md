@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be creating a basic recipe website using the knowledge I've gained so far from The Odin Project. Once this project has been completed, I should have demonstrated a basic knowledge of how to use html. This includes knowledge of the proper implementation of links, images, and file structure. Lastly I will also be practicing the use of commits within Git and creating clean and consistent commit messages. 
