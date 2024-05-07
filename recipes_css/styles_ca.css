@@ -7,6 +7,12 @@ h1 {
 
 }
 
+#Description {
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
 h2 {
     text-align: center;
     text-decoration: underline;
