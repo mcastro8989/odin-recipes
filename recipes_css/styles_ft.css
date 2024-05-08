@@ -22,3 +22,8 @@ h1,
     text-decoration: underline;
     text-align: center;
 }
+
+#Summary {
+    padding-left: 25px;
+    padding-right: 25px;
+}
