@@ -1,6 +1,7 @@
-h1 {
-    text-align: center;
+body {
+    background-color: peachpuff;
 }
+
 
 .toast {
     display: block;
@@ -8,3 +9,13 @@ h1 {
     margin-right: auto;
     width: 50%;
 }
+
+#Description,
+#Home,
+h1,
+.list  {
+    text-align: center;
+
+}
+
+
