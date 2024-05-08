@@ -10,7 +10,7 @@ body {
     width: 50%;
 }
 
-#Description,
+
 #Home,
 h1,
 .list  {
@@ -18,4 +18,7 @@ h1,
 
 }
 
-
+#Description {
+    text-decoration: underline;
+    text-align: center;
+}
